@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-tKzU7iBUYCGZDw0tND0J8w" name="new_role,_MNkH4Pp4EemIsK550echHw" guid="-tKzU7iBUYCGZDw0tND0J8w" changeDate="2019-10-29T15:16:30.196-0300">
-  <mainDescription>Faz algo.</mainDescription>
+  <mainDescription>Faz Outra coisa.</mainDescription>
 </org.eclipse.epf.uma:RoleDescription>
