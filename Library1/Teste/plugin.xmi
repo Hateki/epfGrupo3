@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_InCtIPp4EemIsK550echHw" guid="_InCtIPp4EemIsK550echHw">
+    <resourceDescriptors xmi:id="_Ov_BUPp4EemIsK550echHw" id="-tKzU7iBUYCGZDw0tND0J8w" uri="roles/desenvolvedor.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_InA38Pp4EemIsK550echHw" name="Teste" guid="_InA38Pp4EemIsK550echHw">
+    <methodElementProperty xmi:id="_InDUMPp4EemIsK550echHw" name="plugin_synFree" value="true"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_InA38fp4EemIsK550echHw" name="Content" guid="_InA38fp4EemIsK550echHw">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_InA38vp4EemIsK550echHw" name="Categories" guid="_InA38vp4EemIsK550echHw">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_InA38_p4EemIsK550echHw" name="Domains" guid="_InA38_p4EemIsK550echHw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_InA39Pp4EemIsK550echHw" name="Disciplines" guid="_InA39Pp4EemIsK550echHw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_InA39fp4EemIsK550echHw" name="RoleSets" guid="_InA39fp4EemIsK550echHw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_InA39vp4EemIsK550echHw" name="WP Types" guid="_InA39vp4EemIsK550echHw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_InA39_p4EemIsK550echHw" name="Tools" guid="_InA39_p4EemIsK550echHw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_InA3-Pp4EemIsK550echHw" name="StandardCategories" guid="_InA3-Pp4EemIsK550echHw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_InA3-fp4EemIsK550echHw" name="CustomCategories" guid="_InA3-fp4EemIsK550echHw">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_InA3-vp4EemIsK550echHw" name="Hidden" guid="_InA3-vp4EemIsK550echHw">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_InA3-_p4EemIsK550echHw" name="Custom Categories" guid="_InA3-_p4EemIsK550echHw"/>
+          </childPackages>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_InA3_Pp4EemIsK550echHw" name="CoreContent" guid="_InA3_Pp4EemIsK550echHw">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_J4K90Pp4EemIsK550echHw" name="teste" guid="_J4K90Pp4EemIsK550echHw" presentationName="Teste">
+          <methodElementProperty xmi:id="_J4Lk4Pp4EemIsK550echHw" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_OwRVMPp4EemIsK550echHw" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_MNkH4Pp4EemIsK550echHw" name="desenvolvedor" guid="_MNkH4Pp4EemIsK550echHw" presentationName="Desenvolvedor">
+            <methodElementProperty xmi:id="_Ov9zMPp4EemIsK550echHw" name="me_edited" value="true"/>
+            <presentation xmi:id="-tKzU7iBUYCGZDw0tND0J8w" href="uma://-tKzU7iBUYCGZDw0tND0J8w#-tKzU7iBUYCGZDw0tND0J8w"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_InA3_fp4EemIsK550echHw" name="CapabilityPatterns" guid="_InA3_fp4EemIsK550echHw"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_InA3_vp4EemIsK550echHw" name="DeliveryProcesses" guid="_InA3_vp4EemIsK550echHw"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_InA3__p4EemIsK550echHw" name="ProcessContributions" guid="_InA3__p4EemIsK550echHw"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

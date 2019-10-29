@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_BvuQAPp4EemIsK550echHw" guid="_BvuQAPp4EemIsK550echHw">
+    <subManagers xmi:id="_InCtIPp4EemIsK550echHw" href="uma://_InA38Pp4EemIsK550echHw#_InCtIPp4EemIsK550echHw"/>
+    <resourceDescriptors xmi:id="_BvveIPp4EemIsK550echHw" id="_BvtB4Pp4EemIsK550echHw" uri=""/>
+    <resourceDescriptors xmi:id="_InCtIfp4EemIsK550echHw" id="_InA38Pp4EemIsK550echHw" uri="Teste/plugin.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodLibrary xmi:id="_BvtB4Pp4EemIsK550echHw" name="Library1" guid="_BvtB4Pp4EemIsK550echHw">
+    <methodElementProperty xmi:id="_Bw4toPp4EemIsK550echHw" name="library_synFree" value="true"/>
+    <methodPlugins xmi:id="_InA38Pp4EemIsK550echHw" href="uma://_InA38Pp4EemIsK550echHw#_InA38Pp4EemIsK550echHw"/>
+  </org.eclipse.epf.uma:MethodLibrary>
+</xmi:XMI>
